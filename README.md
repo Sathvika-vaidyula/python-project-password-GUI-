@@ -10,12 +10,6 @@ A user-friendly **Password Manager** built with **Python** and **Tkinter**. This
 
 ---
 
-## 📸 Preview
-
-![Password Manager Preview](assets/screenshot.png) <!-- Replace with actual path to your screenshot -->
-
----
-
 ## 🧩 Features
 
 - 🎲 **Random Password Generator**  
