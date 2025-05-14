@@ -1,0 +1,3 @@
+insta,sathvika.vaidyula@gmail.com,123
+linkdin||sathvika@gmail.com||sss
+paypal || sathvika@gmail.com || 234
